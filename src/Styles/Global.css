@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, #root, .App {
+    height: 100vh;
+    background-color: #282A36;
+    color: #F8F8F2;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+}

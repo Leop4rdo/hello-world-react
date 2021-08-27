@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.App p{
+    font-size: 20px;
+    color: #6272A4;
+}
